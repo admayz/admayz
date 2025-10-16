@@ -11,7 +11,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td valign="middle"><b>Languages:</b></td>
@@ -85,7 +84,6 @@
     </td>
   </tr>
 </table>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admayz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="admayz" /></p>
 
